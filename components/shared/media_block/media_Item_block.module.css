@@ -1,0 +1,5 @@
+.media_item_block{
+    display: flex;
+    flex-direction: col;
+    justify-content: center;
+}
